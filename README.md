@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Ser Full-Stack&color=8A2BE2&style=for-the-badge&logo=GitHub">
 
 
- <img align="right" src="https://lh4.googleusercontent.com/PnS9TQsoevzzqE2bW5Tn4AZXYbs58YZVnCbC6xlqrrOF3pkDEDaDqusvWb2m2pndsIRB1zqwQ-GA_wyD3Uz4thLvBgVh7Nmz4hGyONwtTZ1mDVWyoUKROY6x5WZNyY5gzQ=w1280" height="130" border="0">
+ <img align="right" src="https://lh4.googleusercontent.com/PnS9TQsoevzzqE2bW5Tn4AZXYbs58YZVnCbC6xlqrrOF3pkDEDaDqusvWb2m2pndsIRB1zqwQ-GA_wyD3Uz4thLvBgVh7Nmz4hGyONwtTZ1mDVWyoUKROY6x5WZNyY5gzQ=w1280" height="115" border="0">
 	
 ##
 
