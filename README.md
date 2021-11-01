@@ -9,7 +9,6 @@
  <img align="center" alt="HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 	<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="right" src="https://lh4.googleusercontent.com/PnS9TQsoevzzqE2bW5Tn4AZXYbs58YZVnCbC6xlqrrOF3pkDEDaDqusvWb2m2pndsIRB1zqwQ-GA_wyD3Uz4thLvBgVh7Nmz4hGyONwtTZ1mDVWyoUKROY6x5WZNyY5gzQ=w1280" height="130" border="0">
 </div>
   
   ##
@@ -32,7 +31,8 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Ser Full-Stack&color=8A2BE2&style=for-the-badge&logo=GitHub">
 
 
-
+ <img align="right" src="https://lh4.googleusercontent.com/PnS9TQsoevzzqE2bW5Tn4AZXYbs58YZVnCbC6xlqrrOF3pkDEDaDqusvWb2m2pndsIRB1zqwQ-GA_wyD3Uz4thLvBgVh7Nmz4hGyONwtTZ1mDVWyoUKROY6x5WZNyY5gzQ=w1280" height="130" border="0">
+	
 ##
 
 <div> 
