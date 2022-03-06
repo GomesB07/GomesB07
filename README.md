@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=17 anos&color=8A2BE2&style=for-the-badge&logo=GitHub">
 
 ### 🎓Curso frequentado:
-<img src="https://img.shields.io/static/v1?label=Overview&message=CodeClub - Rodolfo Mori&color=8A2BE2&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=DevClub - Rodolfo Mori&color=8A2BE2&style=for-the-badge&logo=GitHub">
 	
 ### 📈Metas:
 <img src="https://img.shields.io/static/v1?label=Overview&message=Primeiro Emprego&color=8A2BE2&style=for-the-badge&logo=GitHub">
