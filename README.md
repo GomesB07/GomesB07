@@ -1,18 +1,5 @@
 <h1 align="center">Seja Bem Vindo!👨‍💻☕</h1>
 
-<br>
-
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GomesB07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesB07&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-<br>
-<div style="display: inline_block"><br>
- <img align="center" alt="HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-	<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div>
-
 ---
 <br>
 <h2 align="left">🙋🏻‍♂️Algumas informações minhas:</h2>
@@ -39,18 +26,28 @@
 <br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Ser Full-Stack&color=8A2BE2&style=for-the-badge&logo=GitHub">
 
+---
+<br>
 
-<img align="right" height="100" src="https://user-images.githubusercontent.com/93354781/139967887-3c73c17c-d82b-4b46-ac35-40669f06e941.gif"  />
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GomesB07&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesB07&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 
-###
+<br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="42" alt="javascript logo"  />
+<img align="right" height="120" src="https://user-images.githubusercontent.com/93354781/139967887-3c73c17c-d82b-4b46-ac35-40669f06e941.gif"  />
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+	<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 ---
+<br>
+
+<h2>Formas de Contato</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-luis-07/" target="_blank">
