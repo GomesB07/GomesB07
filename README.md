@@ -17,6 +17,7 @@
 ###
 
 <h2 align="left">🎓Curso frequentado:</h2>
+<img src="https://img.shields.io/static/v1?label=Overview&message=ADS - Uninove&color=8A2BE2&style=for-the-badge&logo=GitHub">
 <img src="https://img.shields.io/static/v1?label=Overview&message=DevClub - Rodolfo Mori&color=8A2BE2&style=for-the-badge&logo=GitHub">
 
 ###
