@@ -2,7 +2,7 @@
 
 ---
 <br>
-<h2 align="left">🙋🏻‍♂️Algumas informações minhas:</h2>
+<h2 align="left">🙋🏻‍♂️Algumas informações minhas</h2>
 
 ###
 
